@@ -16,6 +16,8 @@
   - 효율적인 시간 관리와 건강한 습관 형성을 지원하는 플랫폼
   - 사용자가 직접 도전에 참여하고 목표를 공유하며 불특정 다수와 인증을 통해 지속성 유지 도모
   - 커뮤니티를 통해 상호 동기부여와 협력을 유도하여 긍정적인 변화를 함께 만들어가는 환경 제공
+
+
     
 ## ⚙️ 개발환경 및 기술 스택  
 
@@ -36,6 +38,8 @@
       ![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
       ![JSP](https://img.shields.io/badge/JSP-323330?style=for-the-badge&logo=eclipse&logoColor=white)
       ![Eclipse](https://img.shields.io/badge/eclipse-F2A13E?style=for-the-badge&logo=eclipse&logoColor=2C2255)
+
+
 
 
 ## 😊 담당 기능
@@ -74,7 +78,9 @@
     - Java & SQL을 활용하여 **좋아요 상태 및 개수 관리**  
     - JavaScript & Ajax를 활용하여 **실시간 업데이트 구현**  
 
-## 💡 문제 해결 및 경험한 점  
+
+
+## 💡 문제 해결
 
 **[NULL 값으로 인한 SQL 오류 방지]**  
 
@@ -88,9 +94,11 @@
 - **결과**  
   - SQL 실행 오류 방지 및 유지보수성 향상  
 
-## ❓ 프로젝트를 통해 배운 점  
 
-- **매일매일 프로젝트 진행 상황을 기록하며 성장**  
+
+## ❓ 느낀 점
+
+- **프로젝트 진행 상황을 기록하며 성장**  
   - 프로젝트 진행 중 **매일 작성한 상세 일지**를 통해 개발 과정을 돌아볼 수 있었음  
   - 완료 후에도 **기록을 통해 문제 해결 과정 및 배운 점을 복습**할 수 있었음  
   - [프로젝트 일지](https://www.notion.so/1718913a4d278078a4b1dc6da0fecf11)
