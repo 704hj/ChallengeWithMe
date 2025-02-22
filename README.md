@@ -1,6 +1,6 @@
 ![메인 화면](images/main.png)
 ➡️[꼬박꼬박 포트폴리오](https://www.notion.so/1718913a4d278138bc09c80c79a2252c)
-
+</br></br>
 ## 📑 목차
 📖 [프로젝트 개요](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)</br>
 ⚙️ [개발환경 및 기술 스택](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#%EF%B8%8F-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EB%B0%8F-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)</br>
@@ -14,6 +14,7 @@
 
 
 **1. 소개**  
+  - 이   름 : 꼬박꼬박
   - 개   요 : 건강한 습관 형성을 위한 플랫폼 개발  
   - 작업기간: 2024/10/23 ~ 2024/12/03  
   - 팀원구성: 총 5명  
