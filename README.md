@@ -1,6 +1,5 @@
 ![메인 화면](images/main.png)
-
-## 꼬박꼬박
+➡️[꼬박꼬박 포트폴리오](https://www.notion.so/1718913a4d278138bc09c80c79a2252c)
 
 ## 📑 목차
 📖 [프로젝트 개요](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)</br>
@@ -10,7 +9,7 @@
 ❓ [느낀 점](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%8A%90%EB%82%80-%EC%A0%90)</br>
 
 
-
+</br></br>
 ## 📖 프로젝트 개요
 
 
@@ -27,7 +26,7 @@
   - 사용자가 직접 도전에 참여하고 목표를 공유하며 불특정 다수와 인증을 통해 지속성 유지 도모
   - 커뮤니티를 통해 상호 동기부여와 협력을 유도하여 긍정적인 변화를 함께 만들어가는 환경 제공
 
-
+</br></br>
     
 ## ⚙️ 개발환경 및 기술 스택  
 
@@ -49,7 +48,7 @@
       ![JSP](https://img.shields.io/badge/JSP-323330?style=for-the-badge&logo=eclipse&logoColor=white)
       ![Eclipse](https://img.shields.io/badge/eclipse-F2A13E?style=for-the-badge&logo=eclipse&logoColor=2C2255)
 
-
+</br></br>
 
 
 ## 😊 담당 기능
@@ -88,7 +87,7 @@
     - Java & SQL을 활용하여 **좋아요 상태 및 개수 관리**  
     - JavaScript & Ajax를 활용하여 **실시간 업데이트 구현**  
 
-
+</br></br>
 
 ## 💡 문제 해결
 
@@ -104,7 +103,7 @@
 - **결과**  
   - SQL 실행 오류 방지 및 유지보수성 향상  
 
-
+</br></br>
 
 ## ❓ 느낀 점
 
