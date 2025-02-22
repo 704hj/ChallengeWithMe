@@ -31,9 +31,9 @@
       ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
       ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
       ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-      ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
     
+      ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
       ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
       ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
       ![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -79,32 +79,22 @@
 
 ## 💡 문제 해결 및 경험한 점  
 
-### **[NULL 값으로 인한 SQL 오류 방지]**  
+**[NULL 값으로 인한 SQL 오류 방지]**  
 
-✔ **문제점**  
+- **문제점**  
   - `sub_sql` 값이 `NULL`일 경우, SQL 실행 시 오류 발생  
 
-✔ **해결 과정**  
+- **해결 과정**  
   - `sub_sql`을 **빈 문자열("")로 초기화**하여 안전한 SQL 조합  
   - NULL 값이 발생해도 예외 없이 실행될 수 있도록 예외 처리 추가  
 
-✔ **결과**  
+- **결과**  
   - SQL 실행 오류 방지 및 유지보수성 향상  
 
 ## ❓ 프로젝트를 통해 배운 점  
 
-💡 **매일매일 프로젝트 진행 상황을 기록하며 성장**  
+- **매일매일 프로젝트 진행 상황을 기록하며 성장**  
   - 프로젝트 진행 중 **매일 작성한 상세 일지**를 통해 개발 과정을 돌아볼 수 있었음  
   - 완료 후에도 **기록을 통해 문제 해결 과정 및 배운 점을 복습**할 수 있었음  
+  - [프로젝트 일지](https://www.notion.so/1718913a4d278078a4b1dc6da0fecf11)
 
-💡 **원활한 소통이 프로젝트 성패를 결정한다는 점을 깨달음**  
-  - 다양한 의견을 조율하며 **중간 역할을 수행**  
-  - 팀원 간 의견 충돌 시, **설득력 있는 근거를 제시하며 원활한 협업을 이끌어냄**  
-
-💡 **DB 설계 과정에서의 도전과 성장**  
-  - 데이터의 구조를 효율적으로 설계하는 것이 중요함을 체감  
-  - 더 나은 데이터 모델링을 고민하며 **추가적인 학습이 필요하다는 점을 인식**  
-
-💡 **요구사항 정의서 작성 경험**  
-  - UX를 고려한 화면 흐름 설계를 통해 **사용자 중심의 기능 구현이 가능**  
-  - 체계적인 요구사항 정리로 **개발 효율성 극대화**
