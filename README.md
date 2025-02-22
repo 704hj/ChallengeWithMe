@@ -2,12 +2,12 @@
 
 ## 꼬박꼬박
 
-## 목차
-📖 [프로젝트 개요](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)</br>
-⚙️ [개발환경 및 기술 스택](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)</br>
-😊 [담당 기능](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)</br>
+## 📑 목차
+📖 [프로젝트 개요](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)</br>
+⚙️ [개발환경 및 기술 스택](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#%EF%B8%8F-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EB%B0%8F-%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D)</br>
+😊 [담당 기능](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%8B%B4%EB%8B%B9-%EA%B8%B0%EB%8A%A5)</br>
 💡 [문제 해결](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)</br>
-❓ [느낀 점](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)</br>
+❓ [느낀 점](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%8A%90%EB%82%80-%EC%A0%90)</br>
 
 
 
