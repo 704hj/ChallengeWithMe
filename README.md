@@ -48,14 +48,15 @@
 
 ## 5. 주요 기능 및 구현 상세  
 
-### 5-1. 공용 메인 페이지 설계  
-📍 ![사진](메인 페이지 UI)  
+### 5-1. 공용 메인 페이지 설계   
 
-- **헤더 기능**  
+- **헤더**
+    !(https://github.com/704hj/ChallengeWithMe/blob/main/images/header.gif?raw=true)
   - jQuery를 활용한 **프로필 정보 노출/숨김 기능**  
   - JSTL을 이용하여 **등록된 프로필 사진 표시**  
 
-- **메인 페이지 동작**  
+- **메인**
+  !(https://github.com/704hj/ChallengeWithMe/blob/main/images/main.gif?raw=true)
   - `HttpSession`을 활용하여 **로그인 상태 유지**  
   - 챌린지 목록 조회 (DAO를 활용하여 데이터 조회)  
   - 사용자의 점수를 기반으로 **등급 설정**  
@@ -63,7 +64,7 @@
 ---
 
 ### 5-2. CRUD 기반 게시판 개발  
-📍 ![사진](게시판 UI)  
+!(https://github.com/704hj/ChallengeWithMe/blob/main/images/comm.gif?raw=true)
 
 #### 📌 **게시판 주요 기능**  
 ✔ **검색 기능**  
