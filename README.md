@@ -27,20 +27,20 @@
     - Database: Oracle  
 
   - **사용 기술**  
-    - **프론트엔드**
+    - **프론트엔드**</br>
       ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
       ![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
       ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
       ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-    
-    - **백엔드**  
+    </br>
+    - **백엔드**</br>  
       ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
       ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
       ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
       ![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
       ![JSP](https://img.shields.io/badge/JSP-323330?style=for-the-badge&logo=eclipse&logoColor=white)
-
-    - **개발환경**
+</br>
+    - **개발환경**</br>
       ![Eclipse](https://img.shields.io/badge/eclipse-F2A13E?style=for-the-badge&logo=eclipse&logoColor=2C2255)
 
 
