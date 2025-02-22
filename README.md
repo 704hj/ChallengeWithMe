@@ -2,7 +2,15 @@
 
 ## 꼬박꼬박
 
+## 목차
+📖 [프로젝트 개요](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+⚙️ [개발환경 및 기술 스택](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+😊 [담당 기능](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+💡 [문제 해결](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+❓ [느낀 점](https://github.com/704hj/ChallengeWithMe/tree/main?tab=readme-ov-file#-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0)
+
 ## 📖 프로젝트 개요
+
 
 **1. 소개**  
   - 개   요 : 건강한 습관 형성을 위한 플랫폼 개발  
@@ -101,5 +109,5 @@
 - **프로젝트 진행 상황을 기록하며 성장**  
   - 프로젝트 진행 중 **매일 작성한 상세 일지**를 통해 개발 과정을 돌아볼 수 있었음  
   - 완료 후에도 **기록을 통해 문제 해결 과정 및 배운 점을 복습**할 수 있었음  
-  - [프로젝트 일지](https://www.notion.so/1718913a4d278078a4b1dc6da0fecf11)
+    ➡️[프로젝트 일지](https://www.notion.so/1718913a4d278078a4b1dc6da0fecf11)
 
