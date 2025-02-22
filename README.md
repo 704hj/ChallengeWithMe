@@ -10,16 +10,13 @@
   - 팀원구성: 총 5명  
 
 **2. 목표**  
-  - 효율적인 시간 관리 및 습관 형성을 위한 플랫폼 구축  
-  - 독서, 미라클 모닝, 운동 등 다양한 도전 목표 제공  
-  - 도전 기록을 기반으로 사용자 간 상호 동기부여  
+  - 효율적인 시간 관리와 습관 형성을 돕는 도전 기록 및 상호 동기부여 플랫폼 구축
 
 **3. 주요 기능**  
-  - 챌린지 참여 및 기록  
-    - 개인이 직접 목표 설정 후 진행 상황을 기록  
-  - 커뮤니티 연동  
-    - 도전 기록을 공유하며 서로 응원하고 동기부여  
-
+  - 효율적인 시간 관리와 건강한 습관 형성을 지원하는 플랫폼
+  - 사용자가 직접 도전에 참여하고 목표를 공유하며 불특정 다수와 인증을 통해 지속성 유지 도모
+  - 커뮤니티를 통해 상호 동기부여와 협력을 유도하여 긍정적인 변화를 함께 만들어가는 환경 제공
+    
 ## ⚙️ 개발환경 및 기술 스택  
 
   - **개발 환경**  
@@ -44,18 +41,18 @@
 ## 😊 담당 기능
 
 **1. 메인**  
-  - ![main](https://github.com/704hj/ChallengeWithMe/blob/main/images/main.gif?raw=true)  
+   ![main](https://github.com/704hj/ChallengeWithMe/blob/main/images/main.gif?raw=true)  
   - `HttpSession`을 활용하여 **로그인 상태 유지**  
   - 챌린지 목록 조회 (DAO를 활용하여 데이터 조회)  
   - 사용자의 점수를 기반으로 **등급 설정**  
 
 **2. 헤더**  
-  - ![header](https://github.com/704hj/ChallengeWithMe/blob/main/images/header.gif?raw=true)  
+   ![header](https://github.com/704hj/ChallengeWithMe/blob/main/images/header.gif?raw=true)  
   - jQuery를 활용한 **프로필 정보 노출/숨김 기능**  
   - JSTL을 이용하여 **등록된 프로필 사진 표시**  
 
 **3. CRUD 기반 커뮤니티**  
-  - ![community](https://github.com/704hj/ChallengeWithMe/blob/main/images/comm.gif?raw=true)  
+   ![community](https://github.com/704hj/ChallengeWithMe/blob/main/images/comm.gif?raw=true)  
 
   - **검색 기능**  
     - Java와 SQL을 활용하여 **제목, 닉네임, 내용 기반의 다중 조건 검색 기능** 구현  
