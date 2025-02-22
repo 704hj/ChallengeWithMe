@@ -1,7 +1,7 @@
 # 🏆 꼬박꼬박 - 건강한 습관 형성 플랫폼  
 
 
-!(https://github.com/704hj/ChallengeWithMe/issues/1#issue-2870765306)
+[!(https://github.com/704hj/ChallengeWithMe/issues/1#issue-2870765306)](https://private-user-images.githubusercontent.com/177825034/415911385-4c2ca33d-fdfd-49ae-b5a2-52cb3c1aae7e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDAyMzQyMjksIm5iZiI6MTc0MDIzMzkyOSwicGF0aCI6Ii8xNzc4MjUwMzQvNDE1OTExMzg1LTRjMmNhMzNkLWZkZmQtNDlhZS1iNWEyLTUyY2IzYzFhYWU3ZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyMlQxNDE4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MTYyMTQ2NTlkMzQyMmQ0ZTcyOTlhZmEwODQ0NjM2ZWFlYTlhODVmMmVhNWYyNjk5OWI0NThmNWRkOTExNGNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xsBUUbpypexII2TAZNCtpyyf6xiwtDE8iVRnyv8F0I4)
 
 
 ---
