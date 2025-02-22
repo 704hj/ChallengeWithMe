@@ -47,36 +47,36 @@
     - `HttpSession`을 활용하여 **로그인 상태 유지**  
     - 챌린지 목록 조회 (DAO를 활용하여 데이터 조회)  
     - 사용자의 점수를 기반으로 **등급 설정**
- 
+ </br></br></br>
 
 **2. 헤더** 
   ▫️헤더
       ![header](https://github.com/704hj/ChallengeWithMe/blob/main/images/header.gif?raw=true)
     - jQuery를 활용한 **프로필 정보 노출/숨김 기능**  
     - JSTL을 이용하여 **등록된 프로필 사진 표시**
-
+</br></br></br>
     
 **3. CRUD 기반 커뮤니티**
-![community](https://github.com/704hj/ChallengeWithMe/blob/main/images/comm.gif?raw=true)
-  ▫️검색 기능  
-    - Java와 SQL을 활용하여 **제목, 닉네임, 내용 기반의 다중 조건 검색 기능** 구현  
+![community](https://github.com/704hj/ChallengeWithMe/blob/main/images/comm.gif?raw=true)</br>
+  ▫️검색 기능</br>
+    - Java와 SQL을 활용하여 **제목, 닉네임, 내용 기반의 다중 조건 검색 기능** 구현 </br> 
     - `LIKE 연산자`를 활용하여 필터링 처리  
-  
-  ▫️페이징 기능
-    - `PagingUtil` 클래스를 활용하여 **게시글을 페이지 단위로 표시**  
-    - 총 게시글 개수를 기반으로 동적 페이지네이션 구현  
-  
-  ▫️게시글 CRUD 기능 
-    - `session` 값을 활용하여 **작성자와 일치할 경우에만 수정/삭제 버튼 활성화**  
-  
-  ▫️댓글 기능  
-    - Java & SQL을 활용한 **댓글 등록, 수정, 삭제 및 페이징 처리**  
-    - JavaScript & Ajax를 활용하여 **비동기 처리(페이지 새로고침 없이 반영)**  
-    - `session` 값을 활용하여 **댓글 작성자에게만 수정/삭제 버튼 노출**  
-  
-  ▫️좋아요 기능
-    - Java & SQL을 활용하여 **좋아요 상태 및 개수 관리**  
-    - JavaScript & Ajax를 활용하여 **실시간 업데이트 구현**  
+  </br></br>
+  ▫️페이징 기능</br>
+    - `PagingUtil` 클래스를 활용하여 **게시글을 페이지 단위로 표시**  </br>
+    - 총 게시글 개수를 기반으로 동적 페이지네이션 구현  </br>
+  </br></br>
+  ▫️게시글 CRUD 기능 </br>
+    - `session` 값을 활용하여 **작성자와 일치할 경우에만 수정/삭제 버튼 활성화** </br> 
+  </br></br>
+  ▫️댓글 기능  </br>
+    - Java & SQL을 활용한 **댓글 등록, 수정, 삭제 및 페이징 처리** </br> 
+    - JavaScript & Ajax를 활용하여 **비동기 처리(페이지 새로고침 없이 반영)**  </br>
+    - `session` 값을 활용하여 **댓글 작성자에게만 수정/삭제 버튼 노출**  </br>
+  </br></br>
+  ▫️좋아요 기능</br>
+    - Java & SQL을 활용하여 **좋아요 상태 및 개수 관리** </br> 
+    - JavaScript & Ajax를 활용하여 **실시간 업데이트 구현**  </br>
 </br></br></br></br>
 ## 💡 문제 해결 및 경험한 점    
 
