@@ -1,7 +1,7 @@
 # 🏆 꼬박꼬박 - 건강한 습관 형성 플랫폼  
 
 
-![이미지 설명](https://github.com/704hj/ChallengeWithMe/issues/1#issue-2870765306)
+!(https://github.com/704hj/ChallengeWithMe/issues/1#issue-2870765306)
 
 
 ---
